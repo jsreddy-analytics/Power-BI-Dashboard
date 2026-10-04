@@ -1,1 +1,1 @@
-PeopleSense Workforce Analytics Dashboard is an enterprise workforce intelligence solution developed using Power BI to provide leadership teams with a comprehensive view of workforce trends, talent movement, compensation metrics, and organizational performance indicators.
+PeopleSense Workforce Analytics Dashboard is an enterprise workforce intelligence solution developed using Power BI to provide leadership teams with a comprehensive view of workforce trends, talent movement, compensation metrics, and organizational performance indicators..
